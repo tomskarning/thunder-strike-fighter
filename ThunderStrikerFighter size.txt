@@ -1,0 +1,44 @@
+drawable-xxhdpi/ drawable-xlarge-xhdpi/ drawable-large-xhdpi
+bg 1600x2560
+enemy 120x102
+hero 105x120
+rocket 40x20
+logo 900x900
+pause/play 128x128
+
+drawable-xlarge-mdpi/ drawable-xhdpi/ drawable-large-tvdpi
+bg 1000x1600
+enemy 90x76
+hero 79x90
+rocket 30x15
+logo 600x600
+pause/play 100x100
+
+drawable-mdpi
+bg 500x800
+enemy 30x25
+hero 26x30
+rocket 10x5
+logo 300x300
+pause/play 50x50
+
+drawable-hdpi/ drawable-large-mdpi
+bg 750x1200
+enemy 60x51
+hero 52x60
+rocket 20x10
+logo 450x450
+pause/play 75x75
+
+--------------------------------
+
+icon - ic_launcher
+drawable-hdpi 72
+drawable-large-mdpi 48
+drawable-large-tvdpi 72
+drawable-large-xhdpi 96
+drawable-mdpi 48
+drawable-xhdpi 96
+drawable-xlarge-mdpi 48
+drawable-xlarge-xhdpi 96
+drawable-xxhdpi 144

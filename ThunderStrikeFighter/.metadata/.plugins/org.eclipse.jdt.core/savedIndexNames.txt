@@ -1,0 +1,9 @@
+INDEX VERSION 1.126+C:\Users\User\code\ThunderStrikeFighter\.metadata\.plugins\org.eclipse.jdt.core
+293240549.index
+3447602699.index
+1981197751.index
+1170992803.index
+1496531532.index
+848856923.index
+3459995195.index
+1256928483.index
